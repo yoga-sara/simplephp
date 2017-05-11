@@ -1,5 +1,5 @@
 <?php
 
-echo "<h1>Best app ever!!";
-echo "<br><br>awesome";
-echo "<br>but not as cool as this";
+echo "<h1>This is for testing os app!!";
+echo "<br><br>Hi";
+echo "<br>This is inside phpproj";
